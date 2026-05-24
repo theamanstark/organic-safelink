@@ -13,7 +13,7 @@
 ### # Join this Telegram group to raise issues, offer suggestions, and report bugs, as well as to check the status of the safelink 👉 [Telegram Group](https://organicsafe.link/telegram).
 
 ### # New Documentation/Tutorial is here 👉 [click here](https://organicsafe.link/docs). 
-### # Old Github Documentation in below 👇
+### # Old Github Documentation is below 👇
 
 <details>
   <summary>👈 Click to expand the old Github documentation</summary>
